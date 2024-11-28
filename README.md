@@ -1,10 +1,10 @@
 ## Portfolio
 
 ### Hello, we are 
-Drishti Nagshetty 👋
-Aditi Choudhary 👋
-Sanika Madihal 👋
-Nandita Gaitonde 👋
+##### Drishti Nagshetty 👋
+##### Aditi Choudhary 👋
+##### Sanika Madihal 👋
+##### Nandita Gaitonde 👋
 
 We are a group with diverse skills but passionate towards same goals which we achieve through skills and hardwork. Here's a glimpse of our work:
 
