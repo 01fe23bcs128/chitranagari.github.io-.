@@ -8,8 +8,8 @@ Nandita Gaitonde 👋
 
 We are a group with diverse skills but passionate towards same goals which we achieve through skills and hardwork. Here's a glimpse of our work:
 
-## 🛠️ Projects
-- **Project 1**: This portfolio is to depict our smart city design that we worked upon.
+## 🛠️ Project
+- **Project **: This portfolio is to depict our smart city design that we worked upon.
 
 ## 🚀 Skills
 - C,C++, Python,SQL
@@ -43,6 +43,3 @@ We are a group with diverse skills but passionate towards same goals which we ac
 <dd>Google</dd>
 </dl>
 
-<br> 
-> “The only way to do great work is to love what you do.” – Steve Jobs
->
