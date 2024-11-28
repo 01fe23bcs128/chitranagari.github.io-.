@@ -6,7 +6,7 @@ Aditi Choudhary 👋
 Sanika Madihal 👋
 Nandita Gaitonde 👋
 
-We are a group with diverse skills but passionate towards same goals which we achieve through skills and hardwork Here's a glimpse of our work:
+We are a group with diverse skills but passionate towards same goals which we achieve through skills and hardwork. Here's a glimpse of our work:
 
 ## 🛠️ Projects
 - **Project 1**: This portfolio is to depict our smart city design that we worked upon.
