@@ -5,5 +5,6 @@ nav:
 
  -title: Business Case Studies
   url : /business-case-studies/
+  theme: jekyll-theme-slate
 
 
