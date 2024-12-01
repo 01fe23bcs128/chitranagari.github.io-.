@@ -3,5 +3,5 @@ description: Designing a smart city that is sustainable and efficient.
 theme: jekyll-theme-slate
 
 -title: Business Case Studies
-permalink: https://01fe23bcs128.github.io/portfolio.github.io-./business-case-studies/
-layout: default
+url : /business-case-studies/
+
