@@ -10,14 +10,15 @@
 We are a group with diverse skills but passionate towards same goals which we achieve through skills and hardwork. Here's a glimpse of our work:
 
 ## 🛠️ *Project*
-- **Project** : This portfolio is to depict our smart city design that we worked upon.
+- This portfolio is to depict our smart city design that we worked upon.
+- Individual team-mates will be identifying business case studies and working further by incorporating appropriate algorithm in solving and developing the city design.
 
 ## 🚀 *Skills*
 - C,C++, Python,SQL
 - Data Structures and Algorithms
 
 ## 🌐 *Find Us Online*
-- [GitHub](https://github.com/your-github-01fe23bcs128)
+- [GitHub](https://01fe23bcs128.github.io/portfolio.github.io-./)
 
 ## *Portfolio Topic*
 
