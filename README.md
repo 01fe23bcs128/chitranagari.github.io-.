@@ -1,24 +1,25 @@
-## Portfolio
+## *Design and Analysis Algorithms (DAA) Course Project*
 
-### Hello, we are 
-##### Drishti Nagshetty 👋
-##### Aditi Choudhary 👋
-##### Sanika Madihal 👋
-##### Nandita Gaitonde 👋
+### Hello, we are Team-6 of E-division
+#### Team members:
+- Drishti Nagshetty 👋
+- Aditi Choudhary 👋
+- Sanika Madihal 👋
+- Nandita Gaitonde 👋
 
 We are a group with diverse skills but passionate towards same goals which we achieve through skills and hardwork. Here's a glimpse of our work:
 
-## 🛠️ Project
-- **Project **: This portfolio is to depict our smart city design that we worked upon.
+## 🛠️ *Project*
+- **Project** : This portfolio is to depict our smart city design that we worked upon.
 
-## 🚀 Skills
+## 🚀 *Skills*
 - C,C++, Python,SQL
 - Data Structures and Algorithms
 
-## 🌐 Find Us Online
+## 🌐 *Find Us Online*
 - [GitHub](https://github.com/your-github-01fe23bcs128)
 
-## Portfolio Topic
+## *Portfolio Topic*
 
 <dl>
 <dt>Course Name</dt>
@@ -42,4 +43,3 @@ We are a group with diverse skills but passionate towards same goals which we ac
 <dt>Portfolio Topic/Domain</dt>
 <dd>Google</dd>
 </dl>
-
