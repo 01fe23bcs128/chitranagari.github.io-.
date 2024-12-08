@@ -13,7 +13,7 @@ We are a group with diverse skills but passionate towards same goals which we ac
 - DAA course is real time applications of the algorithms and improving the workflow in various fields of technologies.
 - We study the history and how each algorithm was developed,the inspirations behind each and how, new algorithm is the improved version of the previous one. 
 
-## *Topics studied* 
+## 📝 *Topics studied* 
 - Stack,Queue,Linked List
 - Trees, Graphs,Trie, Skip list, Heap
 - Bubble, Quick, Selection, Insertion sort
@@ -26,7 +26,7 @@ We are a group with diverse skills but passionate towards same goals which we ac
 ## 🌐 *Find Us Online*
 - [GitHub](https://01fe23bcs128.github.io/portfolio.github.io-./)
 
-## *Portfolio Topic*
+## 🗒 *Portfolio Topic*
 
 <dl>
 <dt>Course Name</dt>
@@ -55,7 +55,7 @@ We are a group with diverse skills but passionate towards same goals which we ac
 - This portfolio is to depict our smart city design that we worked upon.
 - Individual team-mates will be identifying business case studies and working further by incorporating appropriate algorithm in solving and developing the city design.
 
-## *Problem definition*
+## 📋 *Problem definition*
 Surrounded by human habitat, there is an area of 1500 square kilometres that government of India wants to convert into a smart city. Government is also cautious from the failed cities like Lavasa, Masdar etc. Prepare a city plan proposal for the government.
 
 # Business Case Studies identified 
