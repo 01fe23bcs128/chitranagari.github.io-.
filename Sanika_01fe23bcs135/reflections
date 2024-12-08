@@ -8,3 +8,4 @@
    6.Cubic time : The runtime increases even more steeply that quadratic. Represented as O(n^3).
    7.Exponential time : The runtime grows exponentially, with each additional input. Represented as O(2^n).
    8.Factorial time : The runtime grows extremely fast.Represented as O(n!).
+3. These principles helps us in problem solving in data structures by relating and breaking down the problem according to the available principles. Also these provides the best efficiency by reduicing space and time complexity. Some principles like partioning allows us to manange different types of large data sets. These principles are reliable and accurate for overcoming the challenges.
