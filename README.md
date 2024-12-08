@@ -84,6 +84,6 @@ Surrounded by human habitat, there is an area of 1500 square kilometres that gov
 
 # Course reflections
 #### Drishti R.N : 
-#### Aditi C : [click here] (https://github.com/01fe23bcs128/aditi_portfolio.github.io/blob/main/portfolio.md)
+#### Aditi C : [click here](https://github.com/01fe23bcs128/aditi_portfolio.github.io/blob/main/portfolio.md)
 #### Sanika M : [click here](https://github.com/01fe23bcs128/portfolio.github.io-./blob/main/Sanika_01fe23bcs135/reflections)
 #### Nandita M.G : For the reflections, [click here](https://01fe23bcs117.github.io/NanditaGaitonde_portfolio/)
