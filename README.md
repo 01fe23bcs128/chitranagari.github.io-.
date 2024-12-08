@@ -63,6 +63,9 @@ Surrounded by human habitat, there is an area of 1500 square kilometres that gov
 
 
 #### Aditi C :
+1. **Industrial expansion**
+2. **Health care**
+3. **Education**
 
 
 #### Sanika M :
