@@ -11,7 +11,7 @@ We are a group with diverse skills but passionate towards same goals which we ac
 
 ## 📚 *Course*
 - DAA course is real time applications of the algorithms and improving the workflow in various fields of technologies.
-- We study the history and hiw each algorithm was developed,the inspirations behind each and new one is the improved version of the previous one. 
+- We study the history and how each algorithm was developed,the inspirations behind each and how, new algorithm is the improved version of the previous one. 
 
 ## *Topics studied* 
 - Stack,Queue,Linked List
@@ -68,4 +68,6 @@ Surrounded by human habitat, there is an area of 1500 square kilometres that gov
 ### Sanika M :
 
 ### Nandita M.G :
-1. 
+1. Tourism
+2. Energy generation and supply
+3. Road transport
