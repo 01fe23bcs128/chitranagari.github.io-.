@@ -60,6 +60,9 @@ Surrounded by human habitat, there is an area of 1500 square kilometres that gov
 
 # Business Case Studies identified 
 #### Drishti R.N : 
+1. **Traffic Data and Management**
+2. **Water Supply and Management**
+3. **Population Density and Data**
 
 
 #### Aditi C :
