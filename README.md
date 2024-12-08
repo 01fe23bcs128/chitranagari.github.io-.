@@ -59,15 +59,15 @@ We are a group with diverse skills but passionate towards same goals which we ac
 Surrounded by human habitat, there is an area of 1500 square kilometres that government of India wants to convert into a smart city. Government is also cautious from the failed cities like Lavasa, Masdar etc. Prepare a city plan proposal for the government.
 
 # Business Case Studies identified 
-### Drishti R.N : 
+#### Drishti R.N : 
 
 
-### Aditi C :
+#### Aditi C :
 
 
-### Sanika M :
+#### Sanika M :
 
-### Nandita M.G :
-1. Tourism
-2. Energy generation and supply
-3. Road transport
+#### Nandita M.G :
+1. **Tourism**
+2. **Energy generation and supply**
+3. **Road transport**
