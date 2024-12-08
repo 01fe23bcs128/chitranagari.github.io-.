@@ -1,4 +1,4 @@
-### 1. Iteration, Recursion, and Backtracking  
+ ### 1. Iteration, Recursion, and Backtracking  
 In nature , we come across many kinds of problems that could be solved using algorithm techniques that includes iteration , recursion , backtracking  
 
 #### **Iteration**  
@@ -64,7 +64,13 @@ Its applications include navigation systems and other network purposes.
 
 ### 7. Sorting and Searching algorithms 
 Sorting algorithms organize data for efficient access and manipulation.
-They include sorting techniques like quick sort
+They include sorting techniques like quick sort, merge sort, Bubble Sort
+Searching algorithms locate data within structures
+They include searching techniques binary search and linear search.
+
+### 7. Graph algorithms
+Graph algorithms solve essential problems in connectivity and optimization.
+These algorithms include 
 
 
 
