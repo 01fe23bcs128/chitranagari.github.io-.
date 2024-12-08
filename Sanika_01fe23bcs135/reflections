@@ -9,3 +9,10 @@
    7.Exponential time : The runtime grows exponentially, with each additional input. Represented as O(2^n).
    8.Factorial time : The runtime grows extremely fast.Represented as O(n!).
 3. These principles helps us in problem solving in data structures by relating and breaking down the problem according to the available principles. Also these provides the best efficiency by reduicing space and time complexity. Some principles like partioning allows us to manange different types of large data sets. These principles are reliable and accurate for overcoming the challenges.
+4. The hierarchical data structures like tree are based on parent-child relationship and these are:
+   1. BST: This helps in searching, insertion and deletion of sorted data but sometimes it can be unbalanced affecting the efficiency.
+   2. AVL: This is balanced BST and has an efficiency of O(log n).
+   3. 2-3 tree: This is used for dynamic set of data. It is simple compared to AVL.
+   4. Red-Black tree: Even this is used in case of dynamic dataset with less number of rotations.
+   5. Heap: This is used in case of problems like maximum/minimum.
+   6. Trie: This is based on the prefix of the string. Here string is retrieved by traversing.
