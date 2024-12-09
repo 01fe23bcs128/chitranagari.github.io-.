@@ -73,9 +73,9 @@ Surrounded by human habitat, there is an area of 1500 square kilometres that gov
 
 
 #### Sanika M :
-1. Waste management for industries
-2. Import and export of goods
-3. Improving living standards for farmers 
+1. **Waste management for industries**
+2. **Import and export of goods**
+3. **Improving living standards for farmers**
 
 #### Nandita M.G :
 1. **Tourism**
