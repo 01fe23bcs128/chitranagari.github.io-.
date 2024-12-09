@@ -1,3 +1,4 @@
+# *CHITRANAGARI*
 ## *Design and Analysis Algorithms (DAA) Course Project*
 
 ### Hello, we are Team-6 of E-division
