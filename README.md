@@ -83,8 +83,8 @@ Surrounded by human habitat, there is an area of 1500 square kilometres that gov
 3. **Road transport**
 
 
-# Course reflections
+# Individual portfolios :
 #### Drishti R.N : [click here](https://01fe23bcs032.github.io/Drishti_Portfolio/)
 #### Aditi C : [click here](https://01fe23bcs128.github.io/aditi_portfolio/)
 #### Sanika M : [click here](https://sanika-madihal.github.io/01fe23bcs135/)
-#### Nandita M.G : For the reflections, [click here](https://01fe23bcs117.github.io/NanditaGaitonde_portfolio/)
+#### Nandita M.G :  [click here](https://01fe23bcs117.github.io/NanditaGaitonde_portfolio/)
