@@ -25,7 +25,7 @@ We are a group with diverse skills but passionate towards same goals which we ac
 - Data Structures and Algorithms
 
 ## 🌐 *Find Us Online*
-- [GitHub](https://01fe23bcs128.github.io/portfolio.github.io-./)
+- [GitHub](https://01fe23bcs128.github.io/chitranagari.github.io-./)
 
 ## 🗒 *Portfolio Topic*
 
