@@ -49,7 +49,7 @@ We are a group with diverse skills but passionate towards same goals which we ac
 <dt>University</dt>
 <dd>KLE Technological University, Hubballi</dd>
 <dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+<dd>Smart city design</dd>
 </dl>
 
 ## 🛠️ *Project* 
