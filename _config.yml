@@ -1,6 +1,6 @@
 title: Chitranagari
 baseurl: "/chitranagari"
-theme: merlot
+theme: jekyll-theme-merlot
 collections:
   topics:
     output: true
