@@ -1,5 +1,6 @@
-title: "CHITRANAGARI"
-description: "Designing a smart city that is sustainable and efficient."
-theme: jekyll-theme-merlot
-
-
+title: Chitranagari
+baseurl: "/chitranagari"
+theme: minima
+collections:
+  topics:
+    output: true
