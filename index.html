@@ -12,6 +12,7 @@
       margin: 0;
       padding: 0;
     }
+    
     h1, h2 {
       text-align: center;
       font-weight: bold;
@@ -30,14 +31,21 @@
       padding: 20px;
     }
     .box {
-      background-color: #44475a;
+      width: 75%; /* Set box width to 3/4 of the page */
+      border-radius: 10px;
+      background-color: #6272a4;
       padding: 20px;
       margin: 20px 0;
       border-radius: 10px;
       transition: background-color 0.3s ease;
+       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+      transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s; /* Smooth transition */
     }
     .box:hover {
-      background-color: #bd93f9;
+    transform: translateY(-10px); /* Lift effect on hover */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4); /* Shadow effect */
+    background-color: #674ea7; /* Lighter blue on hover */
+    cursor: pointer;
     }
     .emoji {
       font-size: 24px;
@@ -48,7 +56,7 @@
     }
     .team-member, .course, .project, .problem, .skills, .portfolio {
       display: block;
-      margin-bottom: 20px;
+      margin-bottom: 24px;
     }
   </style>
 </head>
@@ -102,38 +110,50 @@
     </div>
 
     <div class="box project">
-      <h2><span class="emoji">🛠️</span> <span class="heading">Project</span></h2>
-      <p>This portfolio depicts our smart city design project. Team members will identify business case studies and incorporate appropriate algorithms to solve problems and develop the city design.</p>
+      <h2><span class="emoji">🛠️</span> <span class="heading">Course Project Introduction</span></h2>
+      <p>The course project we are working on, aims to design a city that is sustainable and can host all the required facilities that contributes towards the development of the city along with preserving the intricate culture of the city , state and country through tourism.</p>
     </div>
 
     <div class="box problem">
-      <h2><span class="emoji">📋</span> <span class="heading">Problem Definition</span></h2>
-      <p>The government of India wants to convert a 1500 square kilometer area into a smart city. They seek a city plan proposal, considering the failures of past cities like Lavasa and Masdar.</p>
+      <h2><span class="emoji">📋</span> <span class="heading">CHITRANAGARI : The City of Art</span></h2>
+      <p>The designed city is assumed to be situated in the state of Rajasthan, India, with area of approximately 1423 square km area. The city is called Chitranagari which translates to 'City of Art'. Just like it's name , the city offers it's visitors immense cultural heritage and diversity in the form of museum, fort and palace. It also hosts recreational sites such as amusement park, zoological and botanical garden. The city is well connected with roads and higways on the outskirts , supported by metro within the city.There are two government offices(North and South hub) for smooth working. These along with other details make this city a sustainable and one of major economically driving cities.</p>
     </div>
 
     <div class="box business-cases">
       <h2><span class="emoji">📈</span> <span class="heading">Business Case Studies Identified</span></h2>
       <ul>
-        <li><b>Drishti R.N</b>: Traffic Data, Water Supply, Population Density</li>
-        <li><b>Aditi C</b>: Industrial Expansion, Healthcare, Education</li>
-        <li><b>Sanika M</b>: Waste Management, Import/Export of Goods, Living Standards for Farmers</li>
-        <li><b>Nandita M.G</b>: Tourism, Energy Generation, Road Transport</li>
+        <li><b>Drishti R.N</b>:</li>
+        <p>-Traffic Data</p>
+        <p>-Water Supply</p>
+        <p>-Population Density</p>
+        <li><b>Aditi</b>:</li>
+        <p>-Industrial Expansion</p>
+        <p>- Healthcare</p>
+        <p>-Education</p>
+        <li><b>Sanika M</b>:</li>
+        <p>-Waste Management</p>
+        <p>-Import/Export of Goods</p>
+        <p>-Living Standards for Farmers</p>
+        <li><b>Nandita M.G</b>:</li>
+        <p>-Tourism</p>
+        <p>- Energy Generation</p>
+        <p>- Road Transport</p>
       </ul>
     </div>
 
     <div class="box portfolio-details">
-      <h2><span class="emoji">🗒️</span> <span class="heading">Portfolio Topic</span></h2>
+      <h2><span class="emoji">🗒️</span> <span class="heading">Portfolio details</span></h2>
       <p><b>Course Name</b>: Algorithmic Problem Solving</p>
       <p><b>Course Code</b>: 24ECSP206</p>
       <p><b>Course Instructor</b>: Prakash Hegade</p>
       <p><b>University</b>: KLE Technological University, Hubballi</p>
       <p><b>Portfolio Topic/Domain</b>: Smart City Design</p>
-      <p><b>Team Members:</b></p>
+      <p><b>Team Members page links:</b></p>
       <ul>
-        <li><b>Drishti Nagshetty</b> - SRN: 01fe23bcs032</li>
-        <li><b>Aditi Choudhary</b> - SRN: 01fe23bcs128</li>
-        <li><b>Sanika Madihal</b> - SRN: 01fe23bcs135</li>
-        <li><b>Nandita Gaitonde</b> - SRN: 01fe23bcs117</li>
+        <li><b>Drishti Nagshetty :</b><a href="https://01fe23bcs032.github.io/Drishti_Portfolio/target="_blank">Drishti</a></li>
+        <li><b>Aditi Choudhary: </b><a href="https://01fe23bcs128.github.io/aditii_portfolio/" target="_blank">Aditi</a></li>
+        <li><b>Sanika Madihal:</b><a href="https://sanika-madihal.github.io/01fe23bcs135/" target="_blank">Sanika</a></li>
+        <li><b>Nandita Gaitonde:</b><a href="https://01fe23bcs117.github.io/NanditaGaitonde_portfolio/ target="_blank">Nandita</a></li>
       </ul>
     </div>
 
@@ -141,3 +161,4 @@
 
 </body>
 </html>
+<link rel="stylesheet" href="style.css"> <!-- Link to external CSS -->
