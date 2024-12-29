@@ -12,7 +12,16 @@
       margin: 0;
       padding: 0;
     }
-    
+    p {
+            color: #f8f8f2;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+    /* Divider Style */
+        .divider {
+            border-top: 2px solid #bd93f9;
+            margin: 20px 0;
+        }
     h1, h2 {
       text-align: center;
       font-weight: bold;
@@ -31,7 +40,7 @@
       padding: 20px;
     }
     .box {
-      width: 75%; /* Set box width to 3/4 of the page */
+      width: 85%; /* Set box width to 3/4 of the page */
       border-radius: 10px;
       background-color: #6272a4;
       padding: 20px;
@@ -52,12 +61,22 @@
     }
     .heading {
       font-weight: bold;
-      font-size: 28px;
+      font-size: 30px;
     }
     .team-member, .course, .project, .problem, .skills, .portfolio {
       display: block;
-      margin-bottom: 24px;
+      margin-bottom: 28px;
     }
+    a {
+            color: #f8f8f2; /* yellowish color */
+            text-decoration: none; /* Removes underline by default */
+        }
+
+        /* Style for hover state */
+        a:hover {
+            color: #ff79c6; /* Pink color when hovered */
+            text-decoration: underline; /* Adds underline on hover */
+        }
   </style>
 </head>
 <body>
@@ -68,11 +87,13 @@
 
     <div class="box">
       <h2>Hello</h2>
+      <div class="divider"></div>
       <p>Welcome to the team project!</p>
     </div>
 
     <div class="box team-member">
       <h2><span class="emoji">🤝</span> <span class="heading">Team members</span></h2>
+      <div class="divider"></div>
       <ul>
         <li><b>Drishti Nagshetty</b> 👋</li>
         <li><b>Aditi Choudhary</b> 👋</li>
@@ -83,11 +104,13 @@
 
     <div class="box course">
       <h2><span class="emoji">📚</span> <span class="heading">Course</span></h2>
+      <div class="divider"></div>
       <p>DAA course is real-time applications of algorithms and improving the workflow in various fields of technologies.</p>
     </div>
 
     <div class="box topics">
       <h2><span class="emoji">📝</span> <span class="heading">Topics studied</span></h2>
+      <div class="divider"></div>
       <ul>
         <li>Stack, Queue, Linked List</li>
         <li>Trees, Graphs, Trie, Skip list, Heap</li>
@@ -98,6 +121,7 @@
 
     <div class="box skills">
       <h2><span class="emoji">🚀</span> <span class="heading">Skills</span></h2>
+      <div class="divider"></div>
       <ul>
         <li>C, C++, Python, SQL</li>
         <li>Data Structures and Algorithms</li>
@@ -106,21 +130,25 @@
 
     <div class="box portfolio">
       <h2><span class="emoji">🌐</span> <span class="heading">Find Us Online</span></h2>
-      <p>GitHub</p>
+      <div class="divider"></div>
+      <a href="https://01fe23bcs128.github.io/chitranagari.github.io-./" target="_blank">GITHUB</a>
     </div>
 
     <div class="box project">
       <h2><span class="emoji">🛠️</span> <span class="heading">Course Project Introduction</span></h2>
+      <div class="divider"></div>
       <p>The course project we are working on, aims to design a city that is sustainable and can host all the required facilities that contributes towards the development of the city along with preserving the intricate culture of the city , state and country through tourism.</p>
     </div>
 
     <div class="box problem">
       <h2><span class="emoji">📋</span> <span class="heading">CHITRANAGARI : The City of Art</span></h2>
+      <div class="divider"></div>
       <p>The designed city is assumed to be situated in the state of Rajasthan, India, with area of approximately 1423 square km area. The city is called Chitranagari which translates to 'City of Art'. Just like it's name , the city offers it's visitors immense cultural heritage and diversity in the form of museum, fort and palace. It also hosts recreational sites such as amusement park, zoological and botanical garden. The city is well connected with roads and higways on the outskirts , supported by metro within the city.There are two government offices(North and South hub) for smooth working. These along with other details make this city a sustainable and one of major economically driving cities.</p>
     </div>
 
     <div class="box business-cases">
       <h2><span class="emoji">📈</span> <span class="heading">Business Case Studies Identified</span></h2>
+      <div class="divider"></div>
       <ul>
         <li><b>Drishti R.N</b>:</li>
         <p>-Traffic Data</p>
@@ -143,6 +171,7 @@
 
     <div class="box portfolio-details">
       <h2><span class="emoji">🗒️</span> <span class="heading">Portfolio details</span></h2>
+      <div class="divider"></div>
       <p><b>Course Name</b>: Algorithmic Problem Solving</p>
       <p><b>Course Code</b>: 24ECSP206</p>
       <p><b>Course Instructor</b>: Prakash Hegade</p>
