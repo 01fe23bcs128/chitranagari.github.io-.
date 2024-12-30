@@ -16,6 +16,8 @@ header {
     background-color: #44475a; /* Navigation background color */
     border-bottom: 2px #bd93f9;
     height: 3cm; /* Set the height of the navigation bar to 3cm */
+    position: relative;
+    z-index: 1;
 }
 
 header h1 {
@@ -24,27 +26,61 @@ header h1 {
 }
 
 /* Navigation Styling */
+nav {
+    padding: 10px 20px;
+    background-color: #6272a4; /* Light purple background for the box */
+    border-radius: 15px; /* Rounded corners */
+}
+
 nav ul {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: 30px; /* Increased gap for spacing */
+    margin: 0;
+    padding: 0;
 }
 
 nav ul li {
     display: inline;
+    position: relative;
 }
 
 nav ul li a {
     color: #8be9fd; /* Default link color */
     text-decoration: none;
-    font-size: 18px;
+    font-size: 20px; /* Uniform font size for links */
+    font-weight: bold; /* Make the font bolder */
+    position: relative;
+    padding: 5px 10px; /* Added padding around the links */
+    border-radius: 5px; /* Rounded corners for each link */
+    transition: all 0.3s ease; /* Smooth transition for all effects */
 }
 
+/* Hover Effect with Box around the Navigation Link */
 nav ul li a:hover {
     color: #ff79c6; /* Hover color for navigation links */
+    background-color: rgba(255, 121, 198, 0.2); /* Soft pink background */
+    border: 2px solid #ff79c6; /* Add a border around the link */
+    box-shadow: 0 0 10px rgba(255, 121, 198, 0.5); /* Subtle glow effect */
 }
 
-/* Main Header Styling */
+/* Animated Underline on Hover */
+nav ul li a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    width: 0;
+    height: 2px;
+    background-color: #ff79c6;
+    transition: width 0.3s ease;
+}
+
+nav ul li a:hover::after {
+    width: 100%; /* Underline animation */
+}
+
+/* Header Styling for Box */
 .main-header {
     text-align: center;
     margin-top: 20px;
@@ -97,19 +133,19 @@ nav ul li a:hover {
 /* Description Styling */
 .header-box p {
     margin: 0;
-    font-size: 24px; /* Font size for descriptions */
+    font-size: 20px; /* Font size for descriptions */
     color: #f8f8f2; /* Ensure text in description is white */
 }
 
 /* Additional Styles */
 li {
     margin-bottom: 10px;
-    font: 28;
+    font-size: 20px; /* Uniform font size for list items */
 }
 
 p {
     color: #f8f8f2;
-    font-size: 28px;
+    font-size: 20px; /* Uniform font size for paragraphs */
     margin-bottom: 10px;
 }
 
@@ -126,12 +162,12 @@ h1, h2 {
 
 h1 {
     text-decoration: underline;
-    font-size: 40px;
+    font-size: 36px; /* Uniform font size for h1 */
 }
 
 h2 {
     text-decoration: underline;
-    font-size: 36px;
+    font-size: 32px; /* Uniform font size for h2 */
 }
 
 .container {
@@ -175,7 +211,7 @@ h2 {
 
 a {
     color: #f8f8f2; /* yellowish color */
-    font: 24px;
+    font-size: 20px; /* Uniform font size for links */
     text-decoration: none; /* Removes underline by default */
 }
 
