@@ -30,6 +30,9 @@ nav {
     padding: 10px 20px;
     background-color: #6272a4; /* Light purple background for the box */
     border-radius: 15px; /* Rounded corners */
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
 }
 
 nav ul {
