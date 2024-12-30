@@ -244,3 +244,28 @@ a:hover {
     transform: scale(1.05); /* Slight zoom effect on hover */
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4); /* Enhanced shadow effect */
 }
+
+/* Image Container Styling */
+.image-container {
+    display: flex;
+    justify-content: space-between; /* Space between the images */
+    gap: 20px; /* Adds some space between the images */
+    margin-bottom: 20px;
+}
+
+.image-container img {
+    max-width: 48%; /* Ensures images are side by side, but with some space between */
+    height: auto;
+}
+
+/* Center Image Styling */
+.image-center {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; /* Adds spacing above the centered image */
+}
+
+.image-center img {
+    max-width: 500px;
+    height: auto;
+}
