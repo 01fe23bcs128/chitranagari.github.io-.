@@ -100,3 +100,87 @@ nav ul li a:hover {
     font-size: 24px; /* Font size for descriptions */
     color: #f8f8f2; /* Ensure text in description is white */
 }
+
+/* Additional Styles */
+li {
+    margin-bottom: 10px;
+    font: 28;
+}
+
+p {
+    color: #f8f8f2;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+/* Divider Style */
+.divider {
+    border-top: 2px solid #bd93f9;
+    margin: 20px 0;
+}
+
+h1, h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 36px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+.box {
+    width: 85%; /* Set box width to 3/4 of the page */
+    border-radius: 10px;
+    background-color: #6272a4;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+.box:hover {
+    transform: translateY(-10px); /* Lift effect on hover */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4); /* Shadow effect */
+    background-color: #674ea7; /* Lighter blue on hover */
+    cursor: pointer;
+}
+
+.emoji {
+    font-size: 24px;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.team-member, .course, .project, .problem, .skills, .portfolio {
+    display: block;
+    margin-bottom: 28px;
+}
+
+a {
+    color: #f8f8f2; /* yellowish color */
+    font: 24px;
+    text-decoration: none; /* Removes underline by default */
+}
+
+/* Style for hover state */
+a:hover {
+    color: #ff79c6; /* Pink color when hovered */
+    text-decoration: underline; /* Adds underline on hover */
+}
